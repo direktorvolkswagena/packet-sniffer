@@ -63,8 +63,8 @@ def main():
                 print(format_multi_line(DATA_TAB_2, data))
 
         else:
-            print('Data: ')
-            print(format_multi_line(DATA_TAB_1, data))
+            print(TAB_1 + 'Data: ')
+            print(format_multi_line(DATA_TAB_2, data))
 
         it += 1
 
