@@ -1,4 +1,4 @@
-_**Simple IPv4 Packet Sniffer in Python
+_**Simple IPv4 Packet Sniffer
 **_
 
 **Overview**
@@ -30,8 +30,7 @@ _Clone the Repository:_
 
 _Install Dependencies:_
 
-This project doesn't require any external libraries, so no dependencies need to be installed.
-Usage
+This project doesn't require any external libraries, so no dependencies need to be installed
 
 
 _Running the Sniffer:_
